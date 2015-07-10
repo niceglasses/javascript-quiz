@@ -1,0 +1,14 @@
+#quiz {
+  display: none;
+}
+
+label {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+button {
+  margin-top: 20px;
+  
+}
